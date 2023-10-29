@@ -1,2 +1,1 @@
-# NaturalGasPricesPredictions
-Natural Gas Prices Predictions with LSTM
+In this project, there is a dataset containing natural gas price data recorded since 1997. The aim of the project is to create a dataset that the model can predict using an LSTM model, providing a prediction-based approach. As a result of training and learning the model, an accuracy rate of over 90% was achieved in the predictions. The predictions were visualized, providing insight into the data.
